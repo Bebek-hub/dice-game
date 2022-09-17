@@ -8,7 +8,7 @@ const group1 = [
   "./images/three.png",
   "./images/four.png",
   "./images/five.png",
-  "./images/six.png",
+  "./images/six.png"
 ];
 
 const group2 = [
@@ -17,7 +17,7 @@ const group2 = [
   "./images/three.png",
   "./images/four.png",
   "./images/five.png",
-  "./images/six.png",
+  "./images/six.png"
 ];
 
 const randomNumberDice1 = Math.floor(Math.random() * group1.length);
