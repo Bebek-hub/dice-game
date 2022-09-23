@@ -3,21 +3,21 @@ const image1 = document.querySelector(".image_1");
 const image2 = document.querySelector(".image_2");
 
 const group1 = [
-  "./images/one.png",
-  "./images/two.png",
-  "./images/three.png",
-  "./images/four.png",
-  "./images/five.png",
-  "./images/six.png",
+  "./one.png",
+  "./two.png",
+  "./three.png",
+  "./four.png",
+  "./five.png",
+  "./six.png",
 ];
 
 const group2 = [
-  "./images/one.png",
-  "./images/two.png",
-  "./images/three.png",
-  "./images/four.png",
-  "./images/five.png",
-  "./images/six.png",
+  "./one.png",
+  "./two.png",
+  "./three.png",
+  "./four.png",
+  "./five.png",
+  "./six.png",
 ];
 
 const randomNumberDice1 = Math.floor(Math.random() * group1.length);
